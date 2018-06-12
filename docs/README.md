@@ -4,9 +4,7 @@
 
 ## 笔记
 
-推荐阅览 html 版本的笔记，由 [docsify](https://docsify.js.org/#/zh-cn/) 动态生成文档网站。
-
-[在线阅览地址](http://kyonhuang.top/Machine-learning-in-action-notes/)
+html 版本笔记[在线阅览地址](http://kyonhuang.top/Machine-learning-in-action-notes/)，由 [docsify](https://docsify.js.org/#/zh-cn/) 动态生成文档网站。
 
 ## 内容
 
